@@ -98,7 +98,6 @@ export const RESUME_DATA = {
     "Python",
     "API Development",
     "Computer Vision",
-    "Machine Learning",
     "Generative AI",
     "Cloud Computing",
   ],
